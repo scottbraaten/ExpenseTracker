@@ -1,0 +1,12 @@
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\obj\Debug\Braaten_CourseProject_Part2.csproj.AssemblyReference.cache
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\obj\Debug\Braaten_CourseProject_Part2.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\obj\Debug\Braaten_CourseProject_Part2.Properties.Resources.resources
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\obj\Debug\Braaten_CourseProject_Part2.csproj.GenerateResource.cache
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\obj\Debug\Braaten_CourseProject_Part2.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\bin\Debug\Braaten_CourseProject_Part2.exe.config
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\bin\Debug\Braaten_CourseProject_Part2.exe
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\bin\Debug\Braaten_CourseProject_Part2.pdb
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\obj\Debug\Braaten_CourseProject_Part2.exe
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\obj\Debug\Braaten_CourseProject_Part2.pdb
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\obj\Debug\Braaten_CourseProject_Part2.MainForm.resources
+C:\Users\david\Documents\CEIS209\Braaten_CourseProject_Part2\obj\Debug\Braaten_CourseProject_Part2.InputForm.resources
